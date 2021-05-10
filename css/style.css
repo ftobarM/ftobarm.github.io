@@ -240,7 +240,7 @@ button:focus,
 
 .section-title h2 {
     margin-bottom : 5px;
-    color         : #bebece;
+    color         : #00ab9a;
     }
 
 /*-----------------------------
@@ -262,7 +262,7 @@ button:focus,
     z-index             : -1;
     width               : 100%;
     height              : 100%;
-    background-image    : url(../img/img-profile.jpg);
+    background-image    : url(../img/IMG_9405.jpg);
     background-size     : cover;
     background-position : center top;
     }
@@ -276,8 +276,8 @@ button:focus,
     bottom     : 0;
     background : linear-gradient(
             -30deg,
-            rgba(42, 84, 245, 0.5) 0%,
-            rgba(42, 84, 245, 0.5) 40%,
+            rgba(0, 171, 154, 0.35) 0%,
+            rgba(0, 171, 154, 0.35) 20%,
             transparent 60%,
             transparent 100%
     );
@@ -388,14 +388,14 @@ button:focus,
     }
 
 .progress-item .progress-bar {
-    background-color : #2a54f5;
+    background-color : #00ab9a;
     box-shadow       : none;
     text-align       : right;
     }
 
 .progress-item .progress-percent {
     font-size        : 10px;
-    background-color : #313131;
+    background-color : #00ab9a;
     position         : absolute;
     top              : 5px;
     padding          : 0 8px;
@@ -407,7 +407,7 @@ button:focus,
     position     : absolute;
     left         : 0;
     bottom       : -4px;
-    border-top   : 6px solid #313131;
+    border-top   : 6px solid #00ab9a;
     border-right : 8px solid transparent;
     }
 
@@ -540,7 +540,7 @@ button:focus,
  * Preloader
  * ====================*/
 #preloader {
-    background : #2a54f5;
+    background : #00ab9a;
     bottom     : 0;
     left       : 0;
     position   : fixed;
